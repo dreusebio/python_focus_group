@@ -11,5 +11,9 @@ git_test.txt: An empty file created to practice pushing files to GitHub
 NA; worked on UNIX commands only
 
 ## Session_03
-hello_world.py: A Python script that prints "Hello, World!" when run
+hello_world.py: A Python script that prints "lets go!" when run
+
+## Session_04
+comments.py: Python script showing me how use commets. 
+variable.py: taught me legal and illegal variables in python. Somewhat similar to R for me. 
 
